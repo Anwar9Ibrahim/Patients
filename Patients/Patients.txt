@@ -1,0 +1,6 @@
+Dina Alfhaid,38490,1/1/2001,yes,Alhayat,surgery
+Sara Alotaibi,35491,2/3/2007,false,lala,first aid
+Mohammad Abdalah,203,2/3/2007,false,lala,surgery
+Naya Ziad,204,2/3/2007,false,lala,first aid
+Mariam Mousalli,205,4/4/2008,true,Life's Insurance,intern
+Fouad Zreeq,206,5/9/2008,true,Alhayat,first aid
